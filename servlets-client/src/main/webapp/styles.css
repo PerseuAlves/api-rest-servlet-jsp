@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #000000;
+}
+
+h1, h2, h3, h4 {
+	color: #ffffff;
+}
+
+table {
+	align-content: center;
+}
+
+tbody {
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+tr {
+	display: flex;
+}
+
+td {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+form {
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
